@@ -5,8 +5,9 @@
 .background{
     background-color: rgba(229, 84, 115, 0.10);
     width: 1900px;
-    height: 850px;
+    height: 800px;
     display: flex;
+    align-content: center;
 }
 
 .text{
@@ -51,3 +52,60 @@ h1{
     height: 800px;
     flex-shrink: 0;
 }
+
+main{
+    text-align: center;
+    margin-top: 100px;
+    align-items: center;
+}
+
+.cade{
+    border-radius: 300px 300px 0px 0px;
+    background: #A7216226;
+    width : 464px;
+    height : 538px;
+    flex-shrink: 0;
+}
+
+.cade1{
+    border-radius: 300px 300px 0px 0px;
+    background:#0597A026;
+    width : 464px;
+    height : 538px;
+    flex-shrink: 0;
+
+}
+
+.cade2{
+    border-radius: 300px 300px 0px 0px;
+    background:#477D1126;
+    width : 464px;
+    height : 538px;
+    flex-shrink: 0;
+
+}
+
+.contenar{
+    display: flex;
+    gap: 40px;
+    align-content: center;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.cade-pick{
+   margin-top: 110px; 
+}
+
+.cade-pick1{
+    margin-top: 110px; 
+ }
+
+ .cade-pick2{
+    margin-top: 117px; 
+ }
+ 
+ .cadr-text{
+    text-align: center;
+    text-align: right;
+ }
