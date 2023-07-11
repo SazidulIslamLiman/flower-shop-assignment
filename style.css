@@ -82,7 +82,6 @@ main{
     width : 464px;
     height : 538px;
     flex-shrink: 0;
-
 }
 
 .contenar{
@@ -98,14 +97,40 @@ main{
 }
 
 .cade-pick1{
-    margin-top: 110px; 
+    margin-top: 160px; 
  }
 
  .cade-pick2{
-    margin-top: 117px; 
+    margin-top: 68px; 
  }
  
  .cadr-text{
     text-align: center;
     text-align: right;
+ }
+
+ .box{
+    width: 1400px;
+    height: 300px;
+    background-color: #2727270D;
+    margin: 128px 240px;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+ }
+
+ .sub-box{
+    margin-left: 175px;
+ }
+
+ .hot-deal-bok{
+    width: 1920px;
+    height: 620px;
+    background-color: #E554730D;
+    text-align: center;
+    display: flex;
+ }
+
+ .hot-deal-text{
+    padding: 300px;
  }
