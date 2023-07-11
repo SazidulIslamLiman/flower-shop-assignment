@@ -168,3 +168,20 @@ main{
     height: 50px;
     margin-top: 20px;
  }
+
+ .footer-background{
+    width: 1900px;
+    height: 550px;
+    background-color: #111010;
+    margin-top: 200px;
+    color: white;
+    text-align: center;
+    padding-top: 124px;
+ }
+
+ .Featured{
+    width: 600px;
+    height: 132px;
+    background-color: white;
+    margin-left: 635px;
+ }
